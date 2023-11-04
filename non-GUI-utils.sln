@@ -19,7 +19,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RenameFromFile", "RenameFro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DDXXYY", "DDXXYY\DDXXYY.csproj", "{D734ECF9-0166-4EFB-8691-7CA8F0D5BF25}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextRandomizer", "TextRandomizer\TextRandomizer.csproj", "{996242FD-C1A1-4253-95B7-5E43BF95DC60}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TextRandomizer", "TextRandomizer\TextRandomizer.csproj", "{996242FD-C1A1-4253-95B7-5E43BF95DC60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZENKANAtoHANKANA", "ZENKANAtoHANKANA\ZENKANAtoHANKANA.csproj", "{0418CD39-8546-4C0A-A627-3E3804165B9A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{996242FD-C1A1-4253-95B7-5E43BF95DC60}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{996242FD-C1A1-4253-95B7-5E43BF95DC60}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{996242FD-C1A1-4253-95B7-5E43BF95DC60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0418CD39-8546-4C0A-A627-3E3804165B9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0418CD39-8546-4C0A-A627-3E3804165B9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0418CD39-8546-4C0A-A627-3E3804165B9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0418CD39-8546-4C0A-A627-3E3804165B9A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
